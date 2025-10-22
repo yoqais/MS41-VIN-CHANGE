@@ -76,8 +76,7 @@ it will look like:
 ```
 ---
 Save the .HWH file and continue with step 🔹 Open WinKFP.
-
-After Vin Flash is complete, **You must re-flash your Full and partial since a vin change reverts the ECU back to its stock ROM.**
+After Vin Flash is complete, **You must re-flash your Full and partial tune files since a vin change reverts the ECU back to its stock ROM.**
 ---
 
 > For any questions, email: qaisdanish6@gmail.com
