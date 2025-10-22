@@ -14,7 +14,7 @@
 - ⚡ Ediabas
 - ⚡ INPA 5.0.6
 - 🧾 Daten Files
-`You can find links to everything needed in this repository.`
+`https://drive.google.com/file/d/12T9cOFavkO7u9ig2jWE9HZLXFZsa10hE/view?usp=drive_link`
 ---
 
 ## 🧪 Setup
