@@ -58,7 +58,8 @@ Navigate into your MS41.1/2 Coding section and take note of your **assembly numb
 6. Click (F3) Program
 7. It will direct you to flash it twice then it will say Flashing DONE.
 8. Vin change is Complete!
-
+9. Ignition off for 10 seconds then check new Vin in INPA MS41.1/2 Coding section
+    
 ### 🔸 Error 201 Wrong ECU Hardware Number 1406464 (BSU Not possible)
 This error occurs when your ECU's Stock ROM is different than what ROM is flashed currently on it. Followed by the error is a 7 digit number, which usually corresponds with your current ROM's ECU SW Number. Take note of it.
 - Open folder \EC-APPS\NFS\DATA - This is the directory for WinKFP, specifically where your Daten files are saved.
@@ -76,7 +77,7 @@ it will look like:
 ```
 ---
 ## 🔸Save the .HWH file and continue with step 🔹 Open WinKFP.
-After Vin Flash is complete, **You must re-flash your Full and partial tune files since a vin change reverts the ECU back to its stock ROM.**
+After Vin Flash is complete, **You must re-flash your Full and partial tune files since a vin change reverts the ECU back to its stock ROM. You dont need to if the ROM flash on your ECU currently is what came from factory.**
 ---
 
 > For any questions, email: qaisdanish6@gmail.com
