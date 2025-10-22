@@ -40,7 +40,12 @@
 
 You can now close BMW Coding tool, your WinKFP is now properly setup.
 ---
-2. Open INPA:
+⚡OBD2 port & x20 Diag Connector (Female):
+-Connect Pin 14 to Pin 18 to put the ECU in Write mode
+-Connect Pin 2 to Pin 17 to bridge the OBD2 port in the car to the ECU which enables flashing via obd2 port inside the car
+---
+---
+3. Open INPA:
 Navigate into your MS41.1/2 Coding section and take note of your **assembly number**
 ---
 
