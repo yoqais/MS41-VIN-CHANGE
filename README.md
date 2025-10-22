@@ -60,7 +60,7 @@ Navigate into your MS41.1/2 Coding section and take note of your **assembly numb
 8. Vin change is Complete!
 
 ### 🔸 Error 201 Wrong ECU Hardware Number 1406464 (BSU Not possible)
-This error occurs when your ECU's Stock ROM is different than what is flashed currently. Followed by the error is a 7 digit number, which usually corresponds with your ROMS ECU SW Number. Take note of it.
+This error occurs when your ECU's Stock ROM is different than what ROM is flashed currently on it. Followed by the error is a 7 digit number, which usually corresponds with your current ROM's ECU SW Number. Take note of it.
 - Open folder \EC-APPS\NFS\DATA - This is the directory for WinKFP, specifically where your Daten files are saved.
 - If your ECU's stock rom is MS41.2 , open MDS412/MDS412.HWH with notepad | if it is MS41.1 , open MDS411/MDS411.HWH with notepad
 - It will look like:
@@ -74,6 +74,10 @@ it will look like:
 ;Hardwarehistorie vom 28.01.2000 08:20
 1406464 F , 1405854B F , 1406464C F , 1430144A F ;
 ```
-Save the .HWH file and continue with step 🔹 Open WinKFP. After Vin Flash is complete, **You must re-flash your Full and partial since a vin change reverts the ECU back to its stock ROM.**
+---
+Save the .HWH file and continue with step 🔹 Open WinKFP.
+
+After Vin Flash is complete, **You must re-flash your Full and partial since a vin change reverts the ECU back to its stock ROM.**
+---
 
 > For any questions, email: qaisdanish6@gmail.com
