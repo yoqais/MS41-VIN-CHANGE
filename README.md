@@ -74,6 +74,6 @@ it will look like:
 ;Hardwarehistorie vom 28.01.2000 08:20
 1406464 F , 1405854B F , 1406464C F , 1430144A F ;
 ```
-Save the .HWH file and continue with step 🔹 Open WinKFP
+Save the .HWH file and continue with step 🔹 Open WinKFP. After Vin Flash is complete, **You must re-flash your Full and partial since a vin change reverts the ECU back to its stock ROM.**
 
 > For any questions, email: qaisdanish6@gmail.com
