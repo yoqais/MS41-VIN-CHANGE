@@ -40,7 +40,7 @@
 
 You can now close BMW Coding tool, your WinKFP is now properly setup.
 ---
-### 2. Open INPA:
+2. Open INPA:
 Navigate into your MS41.1/2 Coding section and take note of your **assembly number**
 ---
 
@@ -70,23 +70,5 @@ it will look like:
 1406464 F , 1405854B F , 1406464C F , 1430144A F ;
 ```
 Save the .HWH file and continue with step 🔹 Open WinKFP
-
-
-
-## 🧾 License
-
-MIT License — free to use, modify, and share.  
-Credits to MS41 logger community for XML defs and protocol research.
-
----
-
-## 🧠 Future Plans
-
-- Add RPM, TPS, IAT display support  
-- Use ST7701 round display  
-- Add WiFi broadcasting (optional web dashboard)  
-- Add data logging (CSV)
-
----
 
 > For any questions, email: qaisdanish6@gmail.com
