@@ -1,7 +1,7 @@
 
 # MS41 VIN Number Change
 
-*An indepth explanation on how to change your VIN number on your MS41 ECU's*
+*An indepth explanation on how to change your VIN number on your MS41 ECU's UIF*
 **This guide applies to ECU's with Stock & Changed Rom's**
 
 ---
